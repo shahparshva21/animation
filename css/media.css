@@ -1,0 +1,29 @@
+@media only screen and (max-width:373px ) {
+.list-img{
+    width: 171px;
+    height: 75px;
+    margin-left: -17px;
+}
+.brand-logo-box{justify-content: center;
+    margin-left: 102px;
+    height: 80px;
+    display: table;
+    position: fixed;
+}
+.tep{
+    width: 100%;
+}
+.bat{
+    width: 375px;
+}
+.shake{
+    width: 375px;
+    margin-left: -12px;
+}
+.kp{
+    margin-left: 0px;
+}
+.pi{
+    margin-top: 209px;
+}
+}
